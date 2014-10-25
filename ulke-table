@@ -1,0 +1,38 @@
+<html>
+<head>
+</head>
+<body bgcolor="#FF9999">
+<br>
+<table bgcolor="#FFCCCC" width="800" height="200" border="2" align="center" >
+<thead> <font size="2000"> <center>Ulkeler ve Bayraklari</center> </font></thead>
+<br>
+<tr>
+    <th rowspan="2" colspan="2"> Resim </th>
+    <td rowspan="2" align="center" > <h3>Bayraklar</h3></td>
+	<td colspan="2" align="center"> <h3>Cesitli Bilgiler</h3> </td> 
+	<tr> <td align="center"> <h3>Baskent</h3> </td>
+	<td align="center"> <h3>Yuzolcumu (m<sup>2</sup>) </h3> </td></tr>
+</tr>
+
+<tr align="center">
+	<td rowspan="3" align="center" > <h3> Wikipedia Linkleri </h3> </td>
+	<td align="center"><a href="http://tr.wikipedia.org/wiki/T%C3%BCrkiye"><b> <u>TURKIYE </u></b></a> </td> 
+	<td > <a href="http://tr.wikipedia.org/wiki/T%C3%BCrkiye"> <img src="http://fc01.deviantart.net/fs21/f/2007/294/9/2/Turkiye_by_turkiye.jpg" width="100" height="100"></a> </Td>
+	<td align="center" > <b> Ankara </b> </td>
+	<td align="center"> <b>783.562 km<sup> 2 </sup></b></td>
+</tr>
+<tr align="center">
+	<td align="center"><a href="http://tr.wikipedia.org/wiki/%C4%B0ngiltere"> <b> <u>INGILTERE </u></b></a> </td> 
+	<td> <a href="http://tr.wikipedia.org/wiki/%C4%B0ngiltere"><img src="http://www.turkcebilgi.com/images/ulkeler/bayrak_buyuk/fl_gb.gif" width="100" height="100"></a></Td>
+	<td align="center"> <b> Londra </b> </td>
+	<td align="center"> <b>567.254 km<sup> 2 </sup></b></td>
+</tr>
+<tr align="center">
+	<td align="center"><a href="http://tr.wikipedia.org/wiki/Fransa"><b> <u> FRANSA </u></b> </a> </td> 
+	<td > <a href="http://tr.wikipedia.org/wiki/Fransa"><img src="http://www.rehberavrupa.com/wp-content/uploads/2014/02/fransa_bayra.gif" width="100" height="100"></a></Td>
+	<td align="center"> <b> Paris </b> </td>
+	<td align="center"> <b>640.679 km<sup> 2 </sup> </b></td>
+</tr>
+</table>
+</body>
+</html>
